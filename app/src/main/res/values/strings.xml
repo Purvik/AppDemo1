@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SunFlowerDemo1</string>
+    <string name="btnLabelSubmit">SUBMIT</string>
+    <string name="hint_add_number">Add a number to list</string>
+</resources>
